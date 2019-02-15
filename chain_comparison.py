@@ -18,6 +18,6 @@ print(exp2)
 
 # ============ OUTPUT ============
 
-# Trur
+# True
 # False
 
